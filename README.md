@@ -1,5 +1,5 @@
 # Secret Auction Program :
-You are cordially invited to try my secret auction program. bid on everything you want with your friends right now. 💸
+You are cordially invited to try my secret auction program. bid on everything you want with your friends right now. 
 
 <div align="center">
   <br>
