@@ -1,6 +1,8 @@
 # Secret Auction Program :
 You are cordially invited to try my secret auction program. bid on everything you want with your friends right now. 
 
+To people who are not familiar to what exactly an auction is, I should explain that an auction is a way of selling items or property to the highest bidder. People place bids on the item one by one, and the highest bid wins the item. It is a competitive way to buy and sell goods.
+
 <div align="center">
   <br>
   <a rel="nofollow" href="https://github.com/thisiszahrasadeghi">
